@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ZolDfjuwT9TEL8oRfnf3WhQTNza9RhQKtiUOBZfgSv60uF9mqh5kZXvwP/VLS0NXSEVbbWGs5zemtRyyYGxIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Piotr\\source\\repos\\Generator_Faktur\\Generator_Faktur.Core\\Generator_Faktur.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Piotr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

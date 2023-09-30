@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Generator_Faktur.Core/1.0.0": {
+        "runtime": {
+          "Generator_Faktur.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generator_Faktur.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

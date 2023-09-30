@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="PDFsharp" Version="1.50.5147" />
+    <PackageReference Include="System.Drawing.Common" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Generator_Faktur.Core\Generator_Faktur.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PdfTable">
+      <HintPath>..\..\PdfTable\PdfTable\bin\Debug\netcoreapp3.1\PdfTable.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

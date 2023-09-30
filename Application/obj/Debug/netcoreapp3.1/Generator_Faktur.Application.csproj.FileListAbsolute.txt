@@ -1,0 +1,15 @@
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\bin\Debug\netcoreapp3.1\Generator_Faktur.Application.deps.json
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\bin\Debug\netcoreapp3.1\Generator_Faktur.Application.dll
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\bin\Debug\netcoreapp3.1\Generator_Faktur.Application.pdb
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\bin\Debug\netcoreapp3.1\Generator_Faktur.Core.dll
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\bin\Debug\netcoreapp3.1\PdfTable.dll
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\bin\Debug\netcoreapp3.1\Generator_Faktur.Core.pdb
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\bin\Debug\netcoreapp3.1\PdfTable.pdb
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\obj\Debug\netcoreapp3.1\Generator_Faktur.Application.csproj.AssemblyReference.cache
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\obj\Debug\netcoreapp3.1\Generator_Faktur.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\obj\Debug\netcoreapp3.1\Generator_Faktur.Application.AssemblyInfoInputs.cache
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\obj\Debug\netcoreapp3.1\Generator_Faktur.Application.AssemblyInfo.cs
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\obj\Debug\netcoreapp3.1\Generator_Faktur.Application.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\obj\Debug\netcoreapp3.1\Generator_Faktur.Application.csproj.CopyComplete
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\obj\Debug\netcoreapp3.1\Generator_Faktur.Application.dll
+C:\Users\Piotr\source\repos\Generator_Faktur\Application\obj\Debug\netcoreapp3.1\Generator_Faktur.Application.pdb

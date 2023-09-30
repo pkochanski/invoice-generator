@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Generator_Faktur.Application.DTOs
+{
+    public class IssuerDTO
+    {
+        public string Identifier { get; set; }
+        public string BankAccountNumber { get; set; }
+        public string Name { get; set; }
+        public string Adress { get; set; }
+
+    }
+}
